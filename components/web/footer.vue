@@ -5,7 +5,9 @@
         <b-col md="4">
           <h5>TENTANG</h5>
           <hr />
-          <p>Belajar koding bahasa indonesia terlengkap dan mudah dipahami.</p>
+          <p>
+            Belajar Matematika bahasa indonesia terlengkap dan mudah dipahami.
+          </p>
         </b-col>
         <b-col md="4">
           <h5>TAGS</h5>
